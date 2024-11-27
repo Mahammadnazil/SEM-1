@@ -1,0 +1,4 @@
+ASWDC - Apps, Software & Website Development Center
+The department is proud to announce its "ASWDC - Apps, Software & Website Development Center". ASWDC is established by the Department of Computer Engineering, where students work on live projects under the guidance of faculty and industry experts. Students are getting extensive knowledge and industrial experience of cutting edge technologies.
+
+ASWDC fills the gap between academic curriculum and industry expectations. The centre fulfils the software & website requirements of the Institute. Some of the developed programs are DLib – Darshan Library Management Software, TTMS – Time Table Management Software, Fees Collection Software, Attendance Manager, etc. A team of faculty and students has developed iPhone, Android and Windows APPS for the library, Students details for parents (DParent) and Engineering Admission (ACPC)

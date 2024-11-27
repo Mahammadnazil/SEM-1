@@ -1,0 +1,59 @@
+About Diploma (Computer)
+Computer Engineering is one of the most sought programs in the engineering discipline. It will help you to develop a strong foundation in software and hardware. A computer engineer, also known as a software engineer or an IT engineer, is responsible to develop software, websites, mobile apps, etc. Computer Engineering is also the backbone of the most booming fields like Artificial Intelligence, Machine Learning, Big Data, Internet ofThings (IoT), Blockchain (Uses in Cryptocurrency), etc.
+
+This program is the best suitable for the students willing to pursue a degree program and wants to grow in the IT industry.
+
+Admission 2023-24
+Course Duration
+3 Years
+
+Fees per Year
+ 70,000
+
+Intake
+120 Seats
+
+Eligibility
+Passed SSC (10th) examination from a recognized board; and English and Mathematics (Basic/Standard) as compulsory subjects
+
+Admission Procedure
+State Quota Admission by ACPDC
+Management Quota Admission by Apply Online OR Visit Campus
+For Admission regarding query:
+
+7096979952 / 62
+  
+
+Why Diploma (Computer) @ DU?
+Highly Qualified, Well Experienced, Dedicated Faculties
+A strong theoretical foundation for crystal clear fundamentals
+Focus on project-based learning with real-world applications of technology
+Exposure to cutting edge technologies through seminars and workshops
+Student oriented progress report messaging system
+Encouraging students to study besides the curriculum
+Career Opportunities
+The demand for computer engineers is growing every day. In the workplace, a computer engineer works as a Developer (Web/Software/Mobile App), Database Administrator, Network Engineer, Content Writer, Hardware Engineer, UI/UX Designer. For any business to run effectively in today's era they need software like ERP, MIS, CRM, Mobile apps etc. And To develop all these things, we need Computer Engineer. Students can also become entrepreneur by working at home as Freelancer.
+
+Job Roles:
+
+1. Software Developer, 2. Web Designer, 3. Web Developer, 4. Software Tester, 5. Mobile App Developer, 6. Network Engineer, 7. Hardware Engineer, 8. Database Administrator, 9. UI/UX Designer
+
+Curriculum
+Our well-planned and standards-based sequence of fruitful experiences targets students’ practice and achieves proficiency in content and applied learning skills. With a boom in value and skill-based education, our curriculum offers the same diversity to the learners.
+
+Sem-1
+Sem-2
+Sem-3
+Sem-4
+Sem-5
+Sem-6
+#	Course Code	Course Name	Type	Credits	Contact Hours per Week	Detail
+Syllabus
+Theory	Tutorial	Practical
+1	2102HS101	Engineering Physics	BS	4	3	0	2	
+2	2102HS103	Mathematics - I	BS	5	3	2	0	
+3	2102CS101	Basics of C Programming	ES	5	3	0	4	
+4	2102CS102	Computer Peripherals & Networking	ES	1	0	0	2	
+5	2102CS104	Web Designing	ES	5	3	0	4	
+6	2102DU100	Induction Program	UM	0	0	0	0	
+Total	20	26 Hrs / Week	

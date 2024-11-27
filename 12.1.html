@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Flight Booking Form</title>
+</head>
+<body>
+
+  <form >
+    <h2>Flight Booking Form</h2>
+    <h4>Please fill out the form below to book your flight</h4>
+
+    <input type="text" name="fullName" placeholder="Full Name" size="58" required>
+    <br>
+        <br>
+
+    <div>
+      <input type="email" size="25" id="email" name="email" placeholder="Email Address" required>
+      &nbsp;&nbsp;
+      <input type="tel" size="25" id="phone" name="phone" placeholder="Phone Number"  required>
+    </div>
+    <br>
+    <div >
+      <input type="text" size="25" name="departureCity" placeholder="Departure City"  required>
+      &nbsp;&nbsp;
+      <input type="text" size="25" name="destinationCity" placeholder="Destination City"  required>
+    </div>
+    <br>
+    <div >
+      <input type="text" name="departureDate" placeholder="Departure Date" size="25" required>
+      &nbsp;&nbsp;
+      <input type="text" size="25"id="returnDate" name="returnDate" placeholder="Return Date"  required>
+    </div>
+    
+    <h4>Class</h4>
+    <input type="checkbox" name="class" value="Economy">
+    <label for="economy">Economy</label>
+    &nbsp;
+    <input type="checkbox" name="class" value="Business">
+    <label for="business">Business</label>
+    &nbsp;
+    <input type="checkbox"  name="class" value="First Class">
+    <label for="firstClass">First Class</label><br>
+    <br>
+    <input type="checkbox" name="terms" required>
+    
+    <label for="terms">I have read and accept the terms and conditions</label><br>
+    <br>
+    <input type="submit" value="Submit" style="background-color: #3498db; color: #fff; border: none; padding: 10px 20px; border-radius: 4px; cursor: pointer;">
+  </form>
+
+</body>
+</html>
